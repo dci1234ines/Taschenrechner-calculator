@@ -51,7 +51,7 @@ const App = () => {
         </div>
         <div className="buttons">
           <button onClick={() => handleClick("1")}>1</button>
-          <button onClick={() => handleClick("2")}>2</button> cd Taschenrechner-calculator
+          <button onClick={() => handleClick("2")}>2</button> 
           <button onClick={() => handleClick("3")}>3</button>
           <button onClick={() => handleClick("+")}>+</button>
           <button onClick={() => handleClick("4")}>4</button>
